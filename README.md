@@ -1,2 +1,2 @@
 # ats_scanner
-Creating ATS_SCANNER which will Scan the resume on the basis of 
+Creating ATS_SCANNER which will Scan the resume on the basis of Job Description 
